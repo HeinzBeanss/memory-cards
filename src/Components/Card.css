@@ -1,7 +1,16 @@
 .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 198px;
   border: 1px white solid;
   border-radius: 0.4rem;
   padding: 5px;
+  font-size: 1.3rem;
+  width: 100%;
 
+}
+
+.cardtitle {
+  word-wrap: break-word;
 }
