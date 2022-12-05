@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/HeinzBeanss/memory-cards/static/css/main.72a688d8.css",
+    "main.js": "/HeinzBeanss/memory-cards/static/js/main.4b46acfc.js",
+    "static/media/air-neos.png": "/HeinzBeanss/memory-cards/static/media/air-neos.08ca150ea8eb42199c06.png",
+    "static/media/necroshade.png": "/HeinzBeanss/memory-cards/static/media/necroshade.3fd6685c976453b53ee0.png",
+    "static/media/wildedge.png": "/HeinzBeanss/memory-cards/static/media/wildedge.80cb2761ac4be85917c0.png",
+    "static/media/tempest.png": "/HeinzBeanss/memory-cards/static/media/tempest.dedeff5e1c894a51b309.png",
+    "static/media/thunder-giant.png": "/HeinzBeanss/memory-cards/static/media/thunder-giant.6455e89375a1f0985146.png",
+    "static/media/avian.png": "/HeinzBeanss/memory-cards/static/media/avian.af2fe4af2ea387eec81a.png",
+    "static/media/sparkman.png": "/HeinzBeanss/memory-cards/static/media/sparkman.291506accc9dc2326a63.png",
+    "static/media/flame-wingman.png": "/HeinzBeanss/memory-cards/static/media/flame-wingman.100f6d776fe15798e9a3.png",
+    "static/media/stratos.png": "/HeinzBeanss/memory-cards/static/media/stratos.fd3820bee5183510cb57.png",
+    "static/media/neos.png": "/HeinzBeanss/memory-cards/static/media/neos.70071b72627a22e532a2.png",
+    "static/media/bladedge.png": "/HeinzBeanss/memory-cards/static/media/bladedge.697165761438128deec3.png",
+    "static/media/bubbleman.png": "/HeinzBeanss/memory-cards/static/media/bubbleman.24162dca459d54476dfb.png",
+    "static/media/burstinatrix.png": "/HeinzBeanss/memory-cards/static/media/burstinatrix.430048bdb38f3ef6d23a.png",
+    "static/media/flare-neos.png": "/HeinzBeanss/memory-cards/static/media/flare-neos.e53ff114b18d272d1048.png",
+    "static/media/wildheart.png": "/HeinzBeanss/memory-cards/static/media/wildheart.904373e7ecfed57e193b.png",
+    "static/media/rampart-blaster.png": "/HeinzBeanss/memory-cards/static/media/rampart-blaster.537b1329f9e625f7da35.png",
+    "static/media/magma-neos.png": "/HeinzBeanss/memory-cards/static/media/magma-neos.eda6b61fc62eaca31834.png",
+    "static/media/clayman.png": "/HeinzBeanss/memory-cards/static/media/clayman.cb140177c2618dc0d834.png",
+    "index.html": "/HeinzBeanss/memory-cards/index.html",
+    "main.72a688d8.css.map": "/HeinzBeanss/memory-cards/static/css/main.72a688d8.css.map",
+    "main.4b46acfc.js.map": "/HeinzBeanss/memory-cards/static/js/main.4b46acfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a688d8.css",
+    "static/js/main.4b46acfc.js"
+  ]
+}
