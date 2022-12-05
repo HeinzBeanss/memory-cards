@@ -14,7 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build", 
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -40,7 +40,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-
-  "homepage": "https://github.com/HeinzBeanss/memory-cards"
-
+  "homepage": "http://HeinzBeanss.github.io/memory-cards"
 }
